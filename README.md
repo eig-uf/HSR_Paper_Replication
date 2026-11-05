@@ -20,7 +20,7 @@ The initial environment follows [LIBERO's installation instructions](https://git
 
 ## Progress
 
-![Latest project progress: dataset exploration and initial skill set complete; Qwen3-VL planning is next](assets/hsr-overview-progress.png)
+![Latest project progress: dataset exploration and initial skill set complete; Qwen3-VL planning is next](assets/progress.png)
 
 - [x] **01 — Dataset Exploration:** LIBERO setup, HDF5 demonstrations, action analysis, and dataset indexing.
 - [x] **02 — Skill Discovery:** BERT instruction embeddings, K-means clustering (K=10), and demonstration-to-skill mapping.
