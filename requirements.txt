@@ -1,0 +1,12 @@
+# Install after cloning LIBERO into ./LIBERO; see the setup notebook.
+# The upstream file supplies LIBERO's pinned simulator dependencies.
+-r LIBERO/requirements.txt
+
+# Additional packages used by the exploration and skill notebooks (Python 3.8).
+ipykernel<7
+pandas<2.1
+h5py<4
+scikit-learn<1.4
+psutil<6
+timm<1
+huggingface-hub<1
